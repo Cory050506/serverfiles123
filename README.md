@@ -18,6 +18,8 @@ Now, press the Windows Key + R on your keyboard and the "Run" window should open
 
 In the "Open" field, type "%APPDATA%\.minecraft" (no quotes) and the ".minecraft" folder should open. Double click on the "mods" folder and drag every ".jar" file from the folder from earlier into the "mods" folder.
 
+After installing the mods, open the Minecraft Launcher and choose the "fabric-launcher.1.21.1" (should look something like that) and click "Play" and everything should work properly.
+
 Done!
 If you have any issues/questions, message me on Discord and I can help out as much as possible. :D
 
