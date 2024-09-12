@@ -31,11 +31,11 @@ Go to this link, and download the latest version of the modpack: https://modrint
 
 Next, go to this link, and download the Modrinth app: https://modrinth.com/app
 
-After downloading, open the app and make an account (or login if you have an account for some reason). 
+After downloading, open the app and click on the gray steve head in the top left and click "Sign in". This will open another window with a Microsoft login prompt. Enter your Microsoft account email and password to continue. (You'll know when you're logged in when the head of your Minecraft skin is in the top left)
 
 After logging in, find the ".mrpack" file you downloaded a few steps ago and double click it. It should open the Modrinth app and begin creating an instance. 
 
-After all that, click play and you will be asked to login to your Microsoft account. After you login, you should be able to click "Play" again and Minecraft should open.
+After all that, click play and Minecraft should open.
 
 **COMPLETELY OPTIONAL STUFF**
 
