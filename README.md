@@ -1,14 +1,13 @@
 Welcome to Cory's Amazingly Cool Server!!
 
+Server IP: **64.18.124.132**
 
+Version: **1.21.1** (Fabric)
 
 **Regular Method**
 
 ***DO THIS FIRST!!!*** **TUTORIAL FOR DOWNLOADING FABRIC FOR 1.21.1**: https://www.youtube.com/watch?v=7oj_0uhonHw    (or you can ask me for help if needed)
 
-Server IP: **64.18.124.132**
-
-Version: **1.21.1** (Fabric)
 
 In order to connect, you need the mods above. To download them, simply click on ![Screenshot 2024-09-12 130546](https://github.com/user-attachments/assets/a04a34e3-c797-4764-af3b-504185eee281) (<> Code) 
 and then click "Download Zip".
