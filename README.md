@@ -40,10 +40,10 @@ After all that, click play and Minecraft should open.
 **COMPLETELY OPTIONAL STUFF**
 
 If you would like a bunch of optimization, customization, and just other random mods, click here:
-*ADD AT HOME*
+*ADD LATER*
 
 Resource packs I use:
-*ADD AT HOME*
+*ADD LATER*
 
 Shader pack that I use:
-*ADD AT HOME*
+*ADD LATER*
